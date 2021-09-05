@@ -21,7 +21,7 @@
                       <div
                         class="text-2xl text-white font-light leading-normal"
                       >
-                        Learn English from YouTube
+                        Learn English from YouTube ...
                       </div>
                     </div>
                   </div>
