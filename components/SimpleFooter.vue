@@ -2,7 +2,7 @@
   <footer class="bg-gray-900">
     <div class="container mx-auto flex flex-col flex-wrap">
       <ul class="flex mx-auto text-white text-center">
-        <li class="p-2 cursor-pointer hover:underline">Terms & Conditions</li>
+        <li class="p-2 cursor-pointer hover:underline">Terms&Conditions</li>
         <li class="p-2 cursor-pointer hover:underline">Privacy</li>
         <li class="p-2 cursor-pointer hover:underline">Cookies</li>
       </ul>
