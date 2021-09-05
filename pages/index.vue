@@ -9,6 +9,7 @@
         space-x-4
         bg-white
         rounded-xl
+        overflow-x-auto
         shadow-lg
         hover:shadow-xl hover:scale-105
         transition
